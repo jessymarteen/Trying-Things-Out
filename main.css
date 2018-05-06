@@ -1,0 +1,12 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+body {
+  font: 'Graphik', 'Helvetica', 'Arial', 'Verdana', 'sans-serif';
+}
+.utility.nav {
+  background-color: #0066f5;
+  display: inline-block;
+}
