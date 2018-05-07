@@ -4,9 +4,21 @@ html, body, h1, h2, h3, h4, ul, ol, li, p, a {
   margin: 0;
 }
 body {
-  font: 'Graphik', 'Helvetica', 'Arial', 'Verdana', 'sans-serif';
+  font-family: sans-serif;
 }
-.utility.nav {
-  background-color: #0066f5;
+img {
+  display: block;
+  margin: 15px auto 15px auto;
+}
+.utility-nav {
+  background-color: #eeeeee;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: lighter;
+}
+.utility-nav li {
   display: inline-block;
+  margin: auto 10px auto 10px;
+  padding: 10px 5px 10px 5px;
 }
